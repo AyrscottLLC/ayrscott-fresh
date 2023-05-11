@@ -71,7 +71,7 @@ export default function Footer({ children }: Props) {
         </div>
 
         <a
-          href="https://github.com/ayrscott/ayrscott-fresh"
+          href="https://github.com/jwd83"
           class="inline-block hover:text-black transition-colors"
         >
           <IconBrandGithub class="w-10 h-10" />
