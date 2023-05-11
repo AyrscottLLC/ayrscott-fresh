@@ -3,9 +3,7 @@ import { Head } from "$fresh/runtime.ts";
 export default function Home() {
   return (
     <>
-
       <div>
-        <h1>Ayrscott, LLC</h1>
         <div>
           At Ayrscott we bring your visions to life in the digital world. By
           transforming your ideas into powerful software we can simplify your

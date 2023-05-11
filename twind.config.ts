@@ -5,7 +5,9 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: "#ff0000",
+        foreground: "#eee",
+        background: "#222",
+        nav_red: "#333",
       },
     },
   },
