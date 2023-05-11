@@ -6,6 +6,7 @@ export default function Header({ active }: Props) {
   const menus = [
     { name: "Home", href: "/" },
     { name: "Services", href: "/services" },
+    { name: "Portfolio", href: "/portfolio" },
     { name: "Contact", href: "/contact" },
     { name: "About", href: "/about" },
   ];
